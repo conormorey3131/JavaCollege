@@ -1,0 +1,52 @@
+My Game of Craps, Author: Conor Morey 20251076
+How many games would you like to play? 
+5
+
+### Game 1 ###
+Rolled  6  Dice ( 1, 5 )
+The Point is SIX (6). Roll 6 before 7 to win
+Rolled  9  Dice ( 3, 6 )
+Rolled  4  Dice ( 3, 1 )
+Rolled  6  Dice ( 3, 3 )
+Congratulations 😀, you won this game
+
+### Game 2 ###
+Rolled  3  Dice ( 2, 1 )
+Hard luck 😳, you lost this game
+
+### Game 3 ###
+Rolled  6  Dice ( 3, 3 )
+The Point is SIX (6). Roll 6 before 7 to win
+Rolled  7  Dice ( 1, 6 )
+Hard luck 😳, you lost this game
+
+### Game 4 ###
+Rolled  7  Dice ( 4, 3 )
+Congratulations 😀, you won this game
+
+### Game 5 ###
+Rolled 10  Dice ( 6, 4 )
+The Point is TEN (10). Roll 10 before 7 to win
+Rolled  9  Dice ( 4, 5 )
+Rolled  3  Dice ( 2, 1 )
+Rolled  6  Dice ( 1, 5 )
+Rolled  6  Dice ( 1, 5 )
+Rolled  7  Dice ( 3, 4 )
+Hard luck 😳, you lost this game
+
+Do you wish to play another game [y/N]: y
+
+###Game 6 ###
+Rolled 10  Dice ( 6, 4 )
+The Point is TEN (10). Roll 10 before 7 to win
+Rolled  7  Dice ( 6, 1 )
+Hard luck 😳, you lost this game
+
+Do you wish to play another game [y/N]: y
+
+###Game 7 ###
+Rolled  7  Dice ( 4, 3 )
+Congratulations 😀, you won this game
+
+Do you wish to play another game [y/N]: N
+You played 7 games, you won 2 and lost 3. Thank you for playing

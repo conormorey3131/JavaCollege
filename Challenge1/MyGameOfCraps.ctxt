@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MyGameOfCraps
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Play\ game\ of\ craps\ the\ required\ number\ of\ times\r\n\ @param\ args\ \ \ command\ line\ arguments\r\n\ @param\ numberWon\ number\ of\ games\ won\r\n\ @param\ numberLost\ number\ of\ games\ lost\r\n\ @param\ numberOfGames\ number\ of\ games\ the\ user\ wants\ to\ play\r\n
+comment2.params=
+comment2.target=boolean\ playGame()
+comment2.text=\r\n\ Plying\ the\ game\r\n\ @param\ point\ tracks\ if\ the\ game\ was\ a\ win/loss\r\n\ @param\ rollDice\ rolls\ the\ dice\ which\ a\ key\ part\ of\ the\ game\r\n
+comment3.params=numberDice
+comment3.target=int[]\ rollDice(int)
+comment3.text=\r\n\ Roll\ requested\ number\ of\ dice\ and\ store\ in\ an\ array\ with\ sum\r\n\ @param\ numberDice\ \ \ \ the\ number\ of\ dice\ to\ role\r\n\ @return\ an\ array\ where\ [0]\ element\ is\ the\ sum\ followed\ by\ individual\ rolls\r\n
+comment4.params=diceArray
+comment4.target=void\ displayDice(int[])
+comment4.text=\r\n\ Display\ sum\ of\ dice\ rolls\ and\ the\ dice\ values\r\n\ @param\ diceArray\ \ array\ with\ total\ in\ first\ element\ and\ then\ individual\ dice\ values\r\n
+comment5.params=numberDice
+comment5.target=int\ rollAndDisplayDice(int)
+comment5.text=\r\n\ Roll\ requested\ number\ of\ dice\ and\ display\ rolls\r\n\ @param\ numberDice\ \ \ \ the\ number\ of\ dice\ to\ role\r\n\ @return\ sum\ of\ dice\ rolled\r\n
+numComments=6
